@@ -1,0 +1,5 @@
+# ignore all files - data is too big for github
+*
+
+# but keep the folder structure
+!.gitignore

@@ -1,0 +1,5 @@
+# ignore all files - data files are too big
+*
+
+# But keep the folder structure
+!.gitignore
