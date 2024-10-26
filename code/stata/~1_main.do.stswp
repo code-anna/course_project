@@ -23,9 +23,9 @@ quietly do code/stata/2_preparations.do
 ********************************************************************************
 
 *descriptives
-quietely do code/stata/3_descriptives.do
+do code/stata/3_descriptives.do
 
 *graphs
-quietely do code/stata/4_graphs.do
+do code/stata/4_graphs.do
 
 log close
